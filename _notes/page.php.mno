@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_linie" value="name:id;datatype:int,name:denumire;datatype:string,name:suma;datatype:real" />
+	<infoitem key="UD_operatie" value="name:id;datatype:int,name:idUser;datatype:int,name:idLinie;datatype:int,name:comentariu;datatype:string,name:fisier;datatype:string" />
+	<infoitem key="UD_user" value="name:id;datatype:int,name:fname;datatype:string,name:lname;datatype:string,name:user_login;datatype:string,name:password;datatype:string,name:email;datatype:string,name:role;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:denumire;datatype:string,name:suma;datatype:real" />
+</info>
